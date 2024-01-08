@@ -1,0 +1,6 @@
+---
+title: "Assessment of Functional Motor Disorders"
+bibliography: references.bib
+---
+
+A recent review by Serranova et al. showed that the Test "..." is the test with the highest sensitivity in people with FMD [@serranová2023].

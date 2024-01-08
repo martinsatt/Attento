@@ -1,0 +1,14 @@
+---
+title: "Treatment of Functional Motor disorders"
+bibliography: references.bib
+---
+
+In 2015 an expert group publised the following physiotheray treatment recommendations for people with FMD [@nielsen2015]
+
+Here are some core recommendations:
+
+| Relationship                      | Treatment                      | Assistive devices              |
+|-----------------------------------|--------------------------------|--------------------------------|
+| Build trust                       | Limit "hands on treatment"     | Avoid use of splints           |
+| Create expectation of improvement | Foster independence            | Avoid immobilisation of joints |
+| Involve family                    | Use "goal directed" apporaches | Avoid adaptive equipment       |
