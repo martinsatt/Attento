@@ -2,7 +2,7 @@
 title: "Attento_website"
 ---
 
-This is a Quarto website. News
+This is a Quarto website. News for today
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
