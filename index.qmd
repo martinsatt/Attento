@@ -1,11 +1,17 @@
 ---
-title: "Attento_website"
+title: "Project Attento"
 ---
 
-This is a Quarto website. News for today
+This is the website for project ATTENTO. The Attento project explores the application of different attentional foci in people with functional motor disorders (FMD).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+On this website you can find information on:
 
-```{r}
-1 + 1
-```
+-   Project updates
+
+-   Functional motor disorders (Defintions. categories, associated problems, assessment and treatment)
+
+-   How can different stakeholders use different attentional foci to increase skill acquisition in people with FMD.
+
+    -   How to design statements with different attentional foci
+
+    -   Example exercises
