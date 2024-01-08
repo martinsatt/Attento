@@ -11,6 +11,10 @@ website:
         contents: 
           - index.qmd
           - team.qmd
+      - section: "Functional motor disorders"
+        contents: 
+          - FMD_general.qmd
+      
      
   
   page-footer: "Copyright 2024, Team Attento"
