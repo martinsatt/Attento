@@ -5,6 +5,7 @@ website:
   title: "Attento"
   sidebar: 
     style: "docked"
+    logo: fig/logo2.jpeg
     search: true
     contents: 
       - section: "The project"
