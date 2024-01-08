@@ -4,3 +4,7 @@ bibliography: references.bib
 ---
 
 Wulf et al. published in 1998 the first study exploring the effectiveness of an external focus of attention with an internal focus of attention. They reported that skill acquisition was better with an external focus of control [@wulf1998].
+
+Here is an example how an external focus can be used in golf.
+
+{{< video https://www.youtube.com/watch?v=ahkNJJFNmWc >}}
