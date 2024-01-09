@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Attento"
+  page-navigation: true
+  back-to-top-navigation: true
   sidebar: 
     style: "docked"
     logo: fig/logo2.jpeg
