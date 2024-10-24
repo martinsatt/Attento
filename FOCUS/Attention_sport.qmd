@@ -1,0 +1,40 @@
+---
+title: "Focus of attention for sport skills"
+bibliography: references.bib
+---
+
+# The effectiveness of different attentional foci on the acquisition of sport-specific motor skills in healthy adults: a systematic review with network meta-analysis
+
+Within this systematic review with network meta-analysis we have investigated the effectiveness of various attentional foci. Next to the traditional external and internal focus of attention we also included a switching focus of attention and a holistic focus of attention.
+
+A switching focus of attention involves that participants start during the prepartion phase with an internal focus instruction. During the execution of the movement an external focus is used. This might be helpful in situations where an internal focus is difficult to avoid for an initial understanding of the movement task [@aiken2022].
+
+When a holistic focus is used, the attention is focussed on the overall sensations and emotions associated with the movement [@abedanzadeh2022].
+
+All included interventions are visualised in @fig-network-sport.
+
+![The numbers indicate the number of pair-wise comparisons. The following colours were used to indicate comparisons: orange: EFA vs control, yellow: EFA vs holistic focus, blue: EFA vs IFA, black: holistic focus vs IFA, brown: IFA vs switching focus, lilac: EFA vs switching focus. The network is tabulated below each plot in a matrix, with 0 indicating no direct connection between two interventions and 1 indicating a direct connection. Switching f.: switching focus.](fig/network.png){#fig-network-sport .lightbox}
+
+## Background
+
+The acquisition of motor skills is a key element in many sports. A motor learning principle, which is frequently used to support skill acquisition is the application of different attentional foci. The effectiveness of different attentional foci on performance and the learning of motor skills has been investigated in various sports using randomised controlled trials. The aim of the present study was to investigate the effectiveness of different attentional foci (such as external (EFA) and internal attentional foci (IFA), but also holistic and switching foci) on the performance and learning of a sport-specific motor task in healthy individuals.
+
+## Methods
+
+This study was a systematic review with network meta-analysis. We followed the Prisma reporting guideline and the Cochrane handbook for systematic reviews. Cinahl, Embase, Medline and Cochrane Central were searched for eligible studies. Network meta-analyses were performed for the post-acquisition, retention and transfer test endpoints.
+
+## Results
+
+Twelve studies were included in the review. At post-acquisition an EFA was the most effective intervention compared to the control intervention (SMD: 0.9855; 95% CI \[0.4–1.57\]; *p*: 0.001). At the retention and transfer test endpoints, a holistic focus of attention had the highest effectiveness compared to an IFA (SMD 0.75; 95% CI \[−0.1 to 1.6\]; *p*: 0.09) and (SMD 1.16; 95% CI \[0.47–1.86\]; *p*: 0.001). In @fig-forest-plot-sport the comparative effectiveness of the attentional foci at the post-acquistion endpoint is presented.
+
+![Forest-plot post-acquisition.](fig/forest-plot.png){#fig-forest-plot-sport .lightbox}
+
+## Discussion
+
+For all three endpoints, we analysed a greater effectiveness of an EFA and holistic focus compared to an IFA Figure 2. Several promising different attentional focus interventions were identified. The largest effects were analysed for a holistic focus. However, only one study used this intervention and therefore there remains uncertainty about the effectiveness. With regard to the inconsistency observed, the analysis at post-acquisition should be interpreted with caution. Modified versions of the EFA were the imagined and the dynamic EFA. Both were only explored in single studies and should therefore be investigated in further follow-up studies that directly compare them.
+
+## Further infromation
+
+The full text of the paper is available on the PeerJ homepage [Paper](https://peerj.com/articles/17799/).
+
+If you are interested in our analyses and the code we used please visit this website [Documentation](https://focus-attention-sport.netlify.app).

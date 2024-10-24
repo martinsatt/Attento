@@ -1,0 +1,24 @@
+---
+title: "Focus of attention"
+bibliography: references.bib
+---
+
+Learning motor tasks is crucial in various areas. It begins with children acquiring new skills and extends to individuals training in sports. This includes both recreational athletes and professional athletes who dedicate significant time to improving specific motor skills. Additionally, the acquisition of motor skills is vital in the field of rehabilitation. These individuals are training to regain motor skills to enhance their daily functioning, which may lead to greater independence in daily living.
+
+There exist several trainings principles in sport sciences, which can be used to support skill acquisition. Frequently, these are classified as motor learning principles. One of these motor learning principles is the use of different attentional foci. This principles involves that learners can be instructed to focus on different aspects during the preparation and execution of a motor task. The attentional focus principle was originally presented by Wulf et al. [@wulf1998].
+
+Traditionally, there exist two different attentional foci, an external focus of attention (EFA) and an internal focus of attention (IFA). If people use an EFA the attention is focussed on the effects of an movement. As an expample, imagine a football player which is instructed to focus on the ball or goal when shooting a ball.
+
+During an IFA the attention is focussed on the body of a learner. This implies that the football player would be instructed to focus on the foot when shooting a ball.
+
+There exists evidence that an EFA is superior to an IFA in specific situations [@chua2021]. However, this is not the case for all populations and all tasks to be learned. This is the reason why we have explored the effectiveness of attentional foci with several systematic reviews.
+
+Within this section we present several systematic reviews, which have investigated the effectiveness of different attentional foci in different populations.
+
+-   The first study is a systematic review in athletes using this motor learning principle for skill acquisition of sport specific motor skills [@favre-bulle2024].
+
+-   The second systematic review investigated this principle in people with parkinson´s disease.
+
+-   The third systematic review investigated different attentional foci in stroke rehabilitation.
+
+-   The last systematic review analysed the effectiveness of different attentional foci in musculoskeletal rehabilitation (i.e. in people after knee injuries).

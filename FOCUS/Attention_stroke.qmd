@@ -1,0 +1,51 @@
+---
+title: "Focus of attention in stroke rehabilitation"
+bibliography: references.bib
+---
+
+## Introduction
+
+Motor learning is an integral part of stroke rehabilitation and requires verbal instructions from the therapist. These commands can focus the patient's attention on the body segment to be mobilized or on the consequence of this movement on the environment. Differernt instructions can influence the motor performances.
+
+The aim of this systematic review was to evaluate the effectiveness of attentional foci on the performance of various motor tasks, including walking, balance, trunk control, and upper limb function in adults with stroke.
+
+## Method
+
+The search for articles was carried out on four databases. Articles were selected according to pre-spcified selection criteria. Demographic, methodological and statistical data were extracted. Risks of bias was analysed using the PEDro scale.
+
+## Results
+
+Six articles including 170 participants were included. Study results are statistically significant in favor of external attentional focus during motor learning of the upper limbs, trunk control and balance.
+
+## Conclusion
+
+An external attentional focus of attention in stroke neurological rehabilitation is more effective than an internal focus. Further research is needed due to the small number of studies and the small sample sizes. They will allow a concrete and definitive conclusion to be reached.
+
+Keyword Stroke, motor learning, attentional focus, trunk, arm, balance, walking
+
+A poster for this review is presented in @fig-poster-focus-sport
+
+![Poster presented at HES-SO Valais in September 2023](fig/poster-focus-stroke.png){#fig-poster-focus-sport}
+
+## Instructions used
+
+Six studies were included into the systematic review [@mückel2014; @khatoon2014; @gomes2021; @kal2019; @fasoli2002; @durham2014]. Within the following table we present the tasks and instructions provided for the studies with open access. For studies behind the paywalls, please check the the journal home page.
+
+```{r import-instruction}
+#| echo: false
+#| message: false
+library(rio)
+library(dplyr)
+library(DT)
+instructions <- rio::import("data/Instructions_stroke.xlsx")
+instructions <- instructions %>%
+  mutate(url = paste0('<a href="', url, '" target="_blank">', url, '</a>')) %>%
+  select (-url) %>%
+  filter(Access == "Open")
+
+# Create the DT table with clickable links and adjusted column width
+datatable(instructions, escape = FALSE, options = list(
+  columnDefs = list(list(width = '50%', targets = 2))  # Adjust the width as needed
+))
+
+```

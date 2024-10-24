@@ -16,12 +16,14 @@ website:
           - team.qmd
       - section: "Functional motor disorders"
         contents: 
-          - FMD_general.qmd
-          - FMD_assessment.qmd
-          - FMD_treatment.qmd
+          - FMD/FMD_general.qmd
+          - FMD/FMD_assessment.qmd
+          - FMD/FMD_treatment.qmd
       - section: "Focus of attention"
         contents:
-          - Attention_general.qmd
+          - FOCUS/Attention_intro.qmd
+          - FOCUS/Attention_sport.qmd
+          - FOCUS/Attention_stroke.qmd
       
      
   
