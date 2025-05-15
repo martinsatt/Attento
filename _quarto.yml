@@ -23,11 +23,12 @@ website:
         contents:
           - FOCUS/Attention_intro.qmd
           - FOCUS/Attention_sport.qmd
+          - FOCUS/Attention_PD.qmd
           - FOCUS/Attention_stroke.qmd
       
      
   
-  page-footer: "Copyright 2024, Team Attento"
+  page-footer: "Copyright 2025, Team Attento"
   cookie-consent: true
 
 format:

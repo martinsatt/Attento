@@ -1,0 +1,20 @@
+---
+title: "Focus of attention in people with Parkinson´s disease"
+bibliography: references.bib
+---
+
+# Evaluation of external vs. internal focus of attention in Parkinson's disease: A systematic review and meta-analysis during on and off medication states
+
+This study aimed to evaluate the effectiveness of an external focus of attention (EFA) versus an internal focus of attention (IFA) on balance, gait, and motor symptom severity in people with Parkinson’s disease (PwPD) during both ON and OFF medication states. A systematic review with meta-analysis was conducted, including nine studies with 240 subjects. The results showed no significant benefit of either attentional focus over the other for balance, gait, or motor symptom severity in PwPD, regardless of medication state. The choice of attentional focus may be best determined by individual preferences and other personal factors. The findings should be interpreted with caution due to potential bias.
+
+### Analysis of external vs internal focus of attention on balance abilities in people with PD
+
+The forest plot shows no difference of either focus of attention on balance abilities regardless the medication status.
+
+![Forest plot external vs internal focus on balance abilities in people with PD](fig/PD_Forest plot Balance.png)
+
+The methodological quality ratings of several items revealed important limitations. For example assor blinding was not rated as adequate in most studies. 
+
+![Methodological quality of included studies in the systematic review evaluated with the PEDro scale.](fig/PD_Pedro_traffic_light.png)
+
+The full text of the paper is available on the F1000 homepage [Paper](https://f1000research.com/articles/14-272).
