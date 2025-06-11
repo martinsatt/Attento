@@ -17,7 +17,7 @@ Within this section we present several systematic reviews, which have investigat
 
 -   The first study is a systematic review in athletes using this motor learning principle for skill acquisition of sport specific motor skills [@favre-bulle2024].
 
--   The second systematic review investigated this principle in people with parkinson´s disease.
+-   The second systematic review investigated this principle in people with parkinson´s disease [@krieg].
 
 -   The third systematic review investigated different attentional foci in stroke rehabilitation.
 

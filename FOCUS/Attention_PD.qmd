@@ -1,6 +1,7 @@
 ---
 title: "Focus of attention in people with Parkinson´s disease"
 bibliography: references.bib
+license: CC BY NC
 ---
 
 # Evaluation of external vs. internal focus of attention in Parkinson's disease: A systematic review and meta-analysis during on and off medication states
