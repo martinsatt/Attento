@@ -12,9 +12,9 @@ This study aimed to evaluate the effectiveness of an external focus of attention
 
 The forest plot shows no difference of either focus of attention on balance abilities regardless the medication status.
 
-![Forest plot external vs internal focus on balance abilities in people with PD](fig/PD_Forest plot Balance.png)
+![Forest plot external vs internal focus on balance abilities in people with PD](fig/PD_Forest%20plot%20Balance.png)
 
-The methodological quality ratings of several items revealed important limitations. For example assor blinding was not rated as adequate in most studies. 
+The methodological quality ratings of several items revealed important limitations. For example assor blinding was not rated as adequate in most studies.
 
 ![Methodological quality of included studies in the systematic review evaluated with the PEDro scale.](fig/PD_Pedro_traffic_light.png)
 
