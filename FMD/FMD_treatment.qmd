@@ -1,16 +1,28 @@
 ---
-title: "Treatment of Functional Motor disorders"
+title: "Treatment of Functional Neurological Disorders"
 bibliography: references.bib
 ---
 
-Currently, our research group performs a systematic review of rehabilitation interventions for people with functional motor disorders (FMD).
+## Treatments for Patients with Functional Neurological Disorders with Motor Symptoms: A Scoping Review.
 
-In the meantime, here are core recommendations for physiotherapy treatment in people with FMD. In 2015 an expert group published the following physiotherapy treatment recommendations for people with FMD [@nielsen2015]
+**Introduction**
 
-Here are some core recommendations:
+Functional neurological disorder (FND) is a pathology characterized by motor symptoms that impair daily functioning, even though the nervous system is intact. Multiple rehabilitative interventions targeting motor symptoms in FND have been proposed in recent years. However, there remains an unmet need for a comprehensive review of the proposed interventions to clarify the primary treatment options in the context of interdisciplinary rehabilitation.
 
-| Relationship                      | Treatment                      | Assistive devices              |
-|-----------------------------------|--------------------------------|--------------------------------|
-| Build trust                       | Limit "hands on treatment"     | Avoid use of splints           |
-| Create expectation of improvement | Foster independence            | Avoid immobilisation of joints |
-| Involve family                    | Use "goal directed" apporaches | Avoid adaptive equipment       |
+**Method**
+
+A scoping review was conducted to address this need. Articles were selected based on predefined eligibility criteria, including a focus on patients with FND presenting motor symptoms, and the assessment of at least one motor outcome.
+
+**Results**
+
+As part of this scoping review, 26 studies were included. The identified treatments included interdisciplinary interventions, physiotherapy, psychotherapy and transcranial magnetic stimulation. The most commonly involved professionals in rehabilitative interventions were physiotherapists, occupational therapists and psychotherapists. The most common physiotherapeutic treatments applied for FND rehabilitation comprised motor retraining, patient education and attentional focus redirection. Motor and non-motor symptoms were assessed using various tools such as scales and questionnaires.
+
+**Discussion**
+
+This review highlights the importance of interdisciplinary management, both physical and psychological approaches, to treat motor symptoms of FND. The heterogeneity observed in symptom assessment methods underlines the need for standardisation and provides a basis for future research. Given the complexity of FND, a key practical implication is to form interdisciplinary teams specialising in the management of rehabilitation in FND.
+
+**Key words**
+
+*Functional neurological disorder, functional movement disorder, motor symptoms, treatment, rehabilitation, interdisciplinary, physical therapy, assessment*
+
+![Poster presented at the HES-SO Valais-Wallis in September 2025](https://res.cloudinary.com/dughixjyd/image/upload/v1752484852/Attento/Poster_Jung_Meyer.png)

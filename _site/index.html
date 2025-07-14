@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -172,13 +192,13 @@ cookieconsent.run({
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./FMD/FMD_assessment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Assessment of Functional Motor Disorders</span></a>
+ <span class="menu-text">Assessment of Functional Neurological Disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./FMD/FMD_treatment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Treatment of Functional Motor disorders</span></a>
+ <span class="menu-text">Treatment of Functional Neurological Disorders</span></a>
   </div>
 </li>
       </ul>
@@ -216,6 +236,12 @@ cookieconsent.run({
  <span class="menu-text">Focus of attention in stroke rehabilitation</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./FOCUS/Attention_msk.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Focus of attention in knee musculoskeletal problems</span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -223,8 +249,15 @@ cookieconsent.run({
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data" id="toc-the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data" class="nav-link active" data-scroll-target="#the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data"><strong>The impAct of aTTentional focus in body percEptioN of patients with functional moTOr disorders (FMD): preliminary data</strong></a></li>
+  <li><a href="#preliminary-results" id="toc-preliminary-results" class="nav-link" data-scroll-target="#preliminary-results">Preliminary results</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -248,21 +281,60 @@ cookieconsent.run({
 </header>
 
 
-<p>This is the website for project ATTENTO. The Attento project explores the application of different attentional foci in people with functional motor disorders (FMD).</p>
-<p>On this website you can find information on:</p>
+<section id="the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data" class="level2">
+<h2 class="anchored" data-anchor-id="the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data"><strong>The impAct of aTTentional focus in body percEptioN of patients with functional moTOr disorders (FMD): preliminary data</strong></h2>
+<p>This is the official website of Project ATTENTO, a research initiative focused on investigating how different types of attentional focus can be applied to improve motor function in individuals with functional motor disorders (FMD).</p>
+<p><strong>Background and aims</strong></p>
+<p>Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition <span class="citation" data-cites="americanpsychiatricassociation2013">(<a href="#ref-americanpsychiatricassociation2013" role="doc-biblioref">American Psychiatric Association 2013</a>)</span>. FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs <span class="citation" data-cites="bermingham2010 stephen2021">(<a href="#ref-bermingham2010" role="doc-biblioref">Bermingham et al. 2010</a>; <a href="#ref-stephen2021" role="doc-biblioref">Stephen et al. 2021</a>)</span>. Nevertheless, an accurate diagnosis is often delayed because it implies the exclusion of other organic pathologies (e.g., stroke). This is a crucial issue since the delay from symptoms’ onset to the diagnosis has been recognized as the most significant negative prognostic factor <span class="citation" data-cites="gelauff2014a gelauff2016a">(<a href="#ref-gelauff2014a" role="doc-biblioref">Gelauff et al. 2014</a>; <a href="#ref-gelauff2016a" role="doc-biblioref">Gelauff and Stone 2016</a>)</span>. Therefore, there is a pressing need to identify objective and disease-specific markers to support clinicians in their diagnostic routines.&nbsp;</p>
+<p>In this context, hierarchical Bayesian approach has been proposed as a promising framework to explain sensorimotor symptoms in FND in terms of deficit in the inference process, and specifically in the imbalance between prior knowledge, i.e.&nbsp;top-down information, related to an aberrant focus of attention directed over the body, and bottom-up information, such as sensory perception and multisensory integration <span class="citation" data-cites="edwards2012">(<a href="#ref-edwards2012" role="doc-biblioref">Edwards et al. 2012</a>)</span>. Specifically, it has been suggested that sensory perception and multisensory integration occurs properly when the patient’s attention is focused externally (in the environment, or outside the own body), as opposed to when it is directed towards their own body (internally). This aligns with recent expert recommendations for physiotherapy in FND, which emphasize “goal-directed automatic movements” to shift the patient’s attention outward and reduce excessive internal focus of attention <span class="citation" data-cites="nielsen2015">(<a href="#ref-nielsen2015" role="doc-biblioref">Nielsen et al. 2015</a>)</span>.</p>
+<p>Despite this theoretical framework, the idea of “an abnormal sensorimotor processing of information during internal focus of attention” in FND’s has not been thoroughly validated, as no studies have quantitatively assessed this hypothesis. To address this gap, the ATTENTO project aims to:&nbsp;</p>
 <ul>
-<li><p>Project updates</p></li>
-<li><p>Functional motor disorders (Defintions. categories, associated problems, assessment and treatment)</p></li>
-<li><p>How can different stakeholders use different attentional foci to increase skill acquisition in people with FMD.</p>
-<ul>
-<li><p>How to design statements with different attentional foci</p></li>
-<li><p>Example exercises</p></li>
-</ul></li>
+<li>evaluate the processing of sensorimotor signals and multisensory integration (bottom-up) in FND patients,&nbsp;</li>
 </ul>
+<!-- -->
+<ul>
+<li>examine how this process is influenced by internal and external focus of attention (prior&nbsp;</li>
+</ul>
+<p>knowledge)&nbsp;</p>
+<p>To achieve these objectives, an ad hoc multisensory, visuo-proprioceptive perceptual task based on passive movements has been developed.</p>
+</section>
+<section id="preliminary-results" class="level2">
+<h2 class="anchored" data-anchor-id="preliminary-results">Preliminary results</h2>
+<p>These results of the Attento project have been presented at the BRNet 2025 conference in Utrecht.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://res.cloudinary.com/dughixjyd/image/upload/v1752481067/Attento/ATTENTO_BRNET_2025.jpg" class="img-fluid figure-img"></p>
+<figcaption>BRNet 2025 Poster</figcaption>
+</figure>
+</div>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-americanpsychiatricassociation2013" class="csl-entry" role="listitem">
+American Psychiatric Association. 2013. <span>“Diagnostic and Statistical Manual of Mental Disorders (Fifth Edit). American Psychiatric Association.”</span> <em>Washington, DC</em>.
+</div>
+<div id="ref-bermingham2010" class="csl-entry" role="listitem">
+Bermingham, Sarah L., Alan Cohen, John Hague, and Michael Parsonage. 2010. <span>“The Cost of Somatisation Among the Working-Age Population in England for the Year 2008<span></span>2009.”</span> <em>Mental Health in Family Medicine</em> 7 (2): 71. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/">https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/</a>.
+</div>
+<div id="ref-edwards2012" class="csl-entry" role="listitem">
+Edwards, Mark J., Rick A. Adams, Harriet Brown, Isabel Pareés, and Karl J. Friston. 2012. <span>“A Bayesian Account of <span>‘</span>Hysteria<span>’</span>.”</span> <em>Brain</em> 135 (11): 34953512. <a href="https://academic.oup.com/brain/article-abstract/135/11/3495/270457">https://academic.oup.com/brain/article-abstract/135/11/3495/270457</a>.
+</div>
+<div id="ref-gelauff2016a" class="csl-entry" role="listitem">
+Gelauff, Jeannette, and Jon Stone. 2016. <span>“Prognosis of Functional Neurologic Disorders.”</span> <em>Handbook of Clinical Neurology</em> 139: 523541. <a href="https://www.sciencedirect.com/science/article/pii/B9780128017722000436">https://www.sciencedirect.com/science/article/pii/B9780128017722000436</a>.
+</div>
+<div id="ref-gelauff2014a" class="csl-entry" role="listitem">
+Gelauff, Jeannette, Jon Stone, Mark Edwards, and Alan Carson. 2014. <span>“The Prognosis of Functional (Psychogenic) Motor Symptoms: A Systematic Review.”</span> <em>Journal of Neurology, Neurosurgery &amp; Psychiatry</em> 85 (2): 220226. <a href="https://jnnp.bmj.com/content/85/2/220.short">https://jnnp.bmj.com/content/85/2/220.short</a>.
+</div>
+<div id="ref-nielsen2015" class="csl-entry" role="listitem">
+Nielsen, Glenn, Jon Stone, Audrey Matthews, Melanie Brown, Chris Sparkes, Ross Farmer, Lindsay Masterton, Linsey Duncan, Alisa Winters, and Laura Daniell. 2015. <span>“Physiotherapy for Functional Motor Disorders: A Consensus Recommendation.”</span> <em>Journal of Neurology, Neurosurgery &amp; Psychiatry</em> 86 (10): 11131119. <a href="https://jnnp.bmj.com/content/86/10/1113?papetoc=">https://jnnp.bmj.com/content/86/10/1113?papetoc=</a>.
+</div>
+<div id="ref-stephen2021" class="csl-entry" role="listitem">
+Stephen, Christopher D., Vicki Fung, Codrin I. Lungu, and Alberto J. Espay. 2021. <span>“Assessment of Emergency Department and Inpatient Use and Costs in Adult and Pediatric Functional Neurological Disorders.”</span> <em>JAMA Neurology</em> 78 (1): 88101. <a href="https://jamanetwork.com/journals/jamaneurology/article-abstract/2771918">https://jamanetwork.com/journals/jamaneurology/article-abstract/2771918</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

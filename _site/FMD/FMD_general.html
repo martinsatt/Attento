@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -173,13 +193,13 @@ cookieconsent.run({
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../FMD/FMD_assessment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Assessment of Functional Motor Disorders</span></a>
+ <span class="menu-text">Assessment of Functional Neurological Disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../FMD/FMD_treatment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Treatment of Functional Motor disorders</span></a>
+ <span class="menu-text">Treatment of Functional Neurological Disorders</span></a>
   </div>
 </li>
       </ul>
@@ -217,6 +237,12 @@ cookieconsent.run({
  <span class="menu-text">Focus of attention in stroke rehabilitation</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../FOCUS/Attention_msk.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Focus of attention in knee musculoskeletal problems</span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -249,13 +275,27 @@ cookieconsent.run({
 </header>
 
 
-<p>This is the Wikipedia definition of functional neurologic disorders</p>
-<p><a href="https://en.wikipedia.org/wiki/Functional_neurologic_disorder">Link Wikipedia</a></p>
-<p>Functional neurologic disorder or functional neurological disorder (FND) is a condition in which patients experience neurological symptoms such as weakness, movement disorders, sensory symptoms, and blackouts. As a functional disorder, there is by definition no known disease process affecting the structure of the body, yet the person experiences symptoms relating to their body function. Symptoms of functional neurological disorders are clinically recognisable, but are not categorically associated with a definable organic disease.</p>
+<p>Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition <span class="citation" data-cites="americanpsychiatricassociation2013">(<a href="#ref-americanpsychiatricassociation2013" role="doc-biblioref">American Psychiatric Association 2013</a>)</span>. FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs <span class="citation" data-cites="bermingham2010">(<a href="#ref-bermingham2010" role="doc-biblioref">Bermingham et al. 2010</a>)</span>.</p>
+<p>In order to help clinicians and people with FND with treatement and assessment decisions two literature reviews were conducted.</p>
+<ul>
+<li>The first study was a systematic review focused on evaluating the diagnostic accuracy of clinical tests proposed for identifying functional neurological disorder. In recent years, the diagnostic approach to FND has shifted towards identifying ‘positive’ clinical signs — that is, signs that actively support the diagnosis — rather than relying solely on excluding other conditions. However, with an increasing number of clinical tests being introduced, clinicians now face the challenge of selecting the most appropriate ones. This selection must be guided by clinimetric data such as sensitivity, specificity and overall diagnostic performance.</li>
+</ul>
+<!-- -->
+<ul>
+<li>The second study was a scoping review aimed at exploring the range of proposed interventions for Functional Neurological Disorder. In recent years, several rehabilitative approaches have been suggested, particularly those targeting motor symptoms. However, despite this growing body of work, there is still a lack of a comprehensive review that consolidates these interventions. Such a review is essential to better define the primary treatment options within the framework of interdisciplinary rehabilitation.</li>
+</ul>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-americanpsychiatricassociation2013" class="csl-entry" role="listitem">
+American Psychiatric Association. 2013. <span>“Diagnostic and Statistical Manual of Mental Disorders (Fifth Edit). American Psychiatric Association.”</span> <em>Washington, DC</em>.
+</div>
+<div id="ref-bermingham2010" class="csl-entry" role="listitem">
+Bermingham, Sarah L., Alan Cohen, John Hague, and Michael Parsonage. 2010. <span>“The Cost of Somatisation Among the Working-Age Population in England for the Year 2008<span></span>2009.”</span> <em>Mental Health in Family Medicine</em> 7 (2): 71. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/">https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -827,8 +867,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../FMD/FMD_assessment.html" class="pagination-link" aria-label="Assessment of Functional Motor Disorders">
-        <span class="nav-page-text">Assessment of Functional Motor Disorders</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../FMD/FMD_assessment.html" class="pagination-link" aria-label="Assessment of Functional Neurological Disorders">
+        <span class="nav-page-text">Assessment of Functional Neurological Disorders</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

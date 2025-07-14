@@ -1,19 +1,33 @@
 ---
 title: "Project Attento"
+bibliography: references.bib
 ---
 
-This is the website for project ATTENTO. The Attento project explores the application of different attentional foci in people with functional motor disorders (FMD).
+## **The impAct of aTTentional focus in body percEptioN of patients with functional moTOr disorders (FMD): preliminary data**
 
-On this website you can find information on:
+This is the official website of Project ATTENTO, a research initiative focused on investigating how different types of attentional focus can be applied to improve motor function in individuals with functional motor disorders (FMD).
 
--   Project updates
+**Background and aims**
 
--   Functional motor disorders (Defintions. categories, associated problems, assessment and treatment)
+Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition [@americanpsychiatricassociation2013]. FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs [@bermingham2010; @stephen2021]. Nevertheless, an accurate diagnosis is often delayed because it implies the exclusion of other organic pathologies (e.g., stroke). This is a crucial issue since the delay from symptoms’ onset to the diagnosis has been recognized as the most significant negative prognostic factor [@gelauff2014a; @gelauff2016a]. Therefore, there is a pressing need to identify objective and disease-specific markers to support clinicians in their diagnostic routines. 
 
--   How can different stakeholders use different attentional foci to increase skill acquisition in people with FMD.
+In this context, hierarchical Bayesian approach has been proposed as a promising framework to explain sensorimotor symptoms in FND in terms of deficit in the inference process, and specifically in the imbalance between prior knowledge, i.e. top-down information, related to an aberrant focus of attention directed over the body, and bottom-up information, such as sensory perception and multisensory integration [@edwards2012]. Specifically, it has been suggested that sensory perception and multisensory integration occurs properly when the patient's attention is focused externally (in the environment, or outside the own body), as opposed to when it is directed towards their own body (internally). This aligns with recent expert recommendations for physiotherapy in FND, which emphasize "goal-directed automatic movements" to shift the patient's attention outward and reduce excessive internal focus of attention [@nielsen2015].
 
-    -   How to design statements with different attentional foci
+Despite this theoretical framework, the idea of “an abnormal sensorimotor processing of information during internal focus of attention” in FND's has not been thoroughly validated, as no studies have quantitatively assessed this hypothesis. To address this gap, the ATTENTO project aims to: 
 
-    -   Example exercises
-    
-    
+-   evaluate the processing of sensorimotor signals and multisensory integration (bottom-up) in FND patients, 
+
+```{=html}
+<!-- -->
+```
+-   examine how this process is influenced by internal and external focus of attention (prior 
+
+knowledge) 
+
+To achieve these objectives, an ad hoc multisensory, visuo-proprioceptive perceptual task based on passive movements has been developed.
+
+## Preliminary results 
+
+These results of the Attento project have been presented at the BRNet 2025 conference in Utrecht.
+
+![BRNet 2025 Poster](https://res.cloudinary.com/dughixjyd/image/upload/v1752481067/Attento/ATTENTO_BRNET_2025.jpg)

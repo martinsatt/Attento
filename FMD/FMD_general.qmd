@@ -1,9 +1,15 @@
 ---
 title: "Functional Motor disorders"
+bibliography: references.bib
 ---
 
-This is the Wikipedia definition of functional neurologic disorders
+Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition [@americanpsychiatricassociation2013]. FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs [@bermingham2010].
 
-[Link Wikipedia](https://en.wikipedia.org/wiki/Functional_neurologic_disorder)
+In order to help clinicians and people with FND with treatement and assessment decisions two literature reviews were conducted.
 
-Functional neurologic disorder or functional neurological disorder (FND) is a condition in which patients experience neurological symptoms such as weakness, movement disorders, sensory symptoms, and blackouts. As a functional disorder, there is by definition no known disease process affecting the structure of the body, yet the person experiences symptoms relating to their body function. Symptoms of functional neurological disorders are clinically recognisable, but are not categorically associated with a definable organic disease.
+-   The first study was a systematic review focused on evaluating the diagnostic accuracy of clinical tests proposed for identifying functional neurological disorder. In recent years, the diagnostic approach to FND has shifted towards identifying 'positive' clinical signs — that is, signs that actively support the diagnosis — rather than relying solely on excluding other conditions. However, with an increasing number of clinical tests being introduced, clinicians now face the challenge of selecting the most appropriate ones. This selection must be guided by clinimetric data such as sensitivity, specificity and overall diagnostic performance.
+
+```{=html}
+<!-- -->
+```
+-   The second study was a scoping review aimed at exploring the range of proposed interventions for Functional Neurological Disorder. In recent years, several rehabilitative approaches have been suggested, particularly those targeting motor symptoms. However, despite this growing body of work, there is still a lack of a comprehensive review that consolidates these interventions. Such a review is essential to better define the primary treatment options within the framework of interdisciplinary rehabilitation.

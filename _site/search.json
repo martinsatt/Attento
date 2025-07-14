@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Project Attento",
     "section": "",
-    "text": "This is the website for project ATTENTO. The Attento project explores the application of different attentional foci in people with functional motor disorders (FMD).\nOn this website you can find information on:\n\nProject updates\nFunctional motor disorders (Defintions. categories, associated problems, assessment and treatment)\nHow can different stakeholders use different attentional foci to increase skill acquisition in people with FMD.\n\nHow to design statements with different attentional foci\nExample exercises\n\n\n\n\n\n Back to top",
+    "text": "This is the official website of Project ATTENTO, a research initiative focused on investigating how different types of attentional focus can be applied to improve motor function in individuals with functional motor disorders (FMD).\nBackground and aims\nIndividuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition (American Psychiatric Association 2013). FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs (Bermingham et al. 2010; Stephen et al. 2021). Nevertheless, an accurate diagnosis is often delayed because it implies the exclusion of other organic pathologies (e.g., stroke). This is a crucial issue since the delay from symptoms’ onset to the diagnosis has been recognized as the most significant negative prognostic factor (Gelauff et al. 2014; Gelauff and Stone 2016). Therefore, there is a pressing need to identify objective and disease-specific markers to support clinicians in their diagnostic routines. \nIn this context, hierarchical Bayesian approach has been proposed as a promising framework to explain sensorimotor symptoms in FND in terms of deficit in the inference process, and specifically in the imbalance between prior knowledge, i.e. top-down information, related to an aberrant focus of attention directed over the body, and bottom-up information, such as sensory perception and multisensory integration (Edwards et al. 2012). Specifically, it has been suggested that sensory perception and multisensory integration occurs properly when the patient’s attention is focused externally (in the environment, or outside the own body), as opposed to when it is directed towards their own body (internally). This aligns with recent expert recommendations for physiotherapy in FND, which emphasize “goal-directed automatic movements” to shift the patient’s attention outward and reduce excessive internal focus of attention (Nielsen et al. 2015).\nDespite this theoretical framework, the idea of “an abnormal sensorimotor processing of information during internal focus of attention” in FND’s has not been thoroughly validated, as no studies have quantitatively assessed this hypothesis. To address this gap, the ATTENTO project aims to: \n\nevaluate the processing of sensorimotor signals and multisensory integration (bottom-up) in FND patients, \n\n\n\nexamine how this process is influenced by internal and external focus of attention (prior \n\nknowledge) \nTo achieve these objectives, an ad hoc multisensory, visuo-proprioceptive perceptual task based on passive movements has been developed.",
     "crumbs": [
       "The project",
       "Project Attento"
@@ -22,7 +22,7 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Dr Michela Bassolino\n\nPI\nHES-SO Valais-Wallis, Switzerland\n\nMarie Bonjour, MSc\n\nScientific collaborator\n\nDr Gaia Risso\n\nPost-doc\nHES-SO Valais-Wallis, Switzerland\n\nAyla Gay, MSc\n\nPhD candidate\nHES-SO Valais-Wallis, Switzerland\n\nDr K Martin Sattelmayer\n\nCo-applicant\nSchool of Health Sciences, HES-SO Valais-Wallis, Leukerbad, Valais-Wallis, Switzerland",
+    "text": "Dr Michela Bassolino\n\nPI\nHES-SO Valais-Wallis, Switzerland\n\nMarie Bonjour, MSc\n\nScientific collaborator\n\nDr Gaia Risso\n\nPost-doc\nHES-SO Valais-Wallis, Switzerland\n\nAyla Gay, MSc\n\nPhD candidate\nHES-SO Valais-Wallis, Switzerland\n\nDr Martin Sattelmayer\n\nCo-applicant\nSchool of Health Sciences, HES-SO Valais-Wallis, Leukerbad, Valais-Wallis, Switzerland",
     "crumbs": [
       "The project",
       "Team"
@@ -33,7 +33,7 @@
     "href": "team.html#research-team",
     "title": "Team",
     "section": "",
-    "text": "Dr Michela Bassolino\n\nPI\nHES-SO Valais-Wallis, Switzerland\n\nMarie Bonjour, MSc\n\nScientific collaborator\n\nDr Gaia Risso\n\nPost-doc\nHES-SO Valais-Wallis, Switzerland\n\nAyla Gay, MSc\n\nPhD candidate\nHES-SO Valais-Wallis, Switzerland\n\nDr K Martin Sattelmayer\n\nCo-applicant\nSchool of Health Sciences, HES-SO Valais-Wallis, Leukerbad, Valais-Wallis, Switzerland",
+    "text": "Dr Michela Bassolino\n\nPI\nHES-SO Valais-Wallis, Switzerland\n\nMarie Bonjour, MSc\n\nScientific collaborator\n\nDr Gaia Risso\n\nPost-doc\nHES-SO Valais-Wallis, Switzerland\n\nAyla Gay, MSc\n\nPhD candidate\nHES-SO Valais-Wallis, Switzerland\n\nDr Martin Sattelmayer\n\nCo-applicant\nSchool of Health Sciences, HES-SO Valais-Wallis, Leukerbad, Valais-Wallis, Switzerland",
     "crumbs": [
       "The project",
       "Team"
@@ -70,23 +70,23 @@
   {
     "objectID": "FMD/FMD_assessment.html",
     "href": "FMD/FMD_assessment.html",
-    "title": "Assessment of Functional Motor Disorders",
+    "title": "Assessment of Functional Neurological Disorders",
     "section": "",
     "text": "Introduction: Functional neurological disorders (FND) manifest as real motor, sensory and cognitive symptoms without any identifiable neurological lesion. Their diagnosis is now based on positive clinical signs. Complex and multifactorial, they result from biological, psychological and social factors. Our study assesses the diagnostic accuracy of tests for identifying NFTs. Clinical tests, known as index tests, make it possible to differentiate NFTs from organic pathologies, facilitating early diagnosis and appropriate management, particularly in physiotherapy.\nMethod: This systematic review with meta-analysis, in accordance with the Cochrane Handbook guidelines, assesses the validity of clinical diagnostic tests for functional neurological disorders. The search strategy was applied to four databases.\nResults: Fourteen studies (951 participants) were included. The meta-analysis of the Hoover signal was based on six studies (412 participants) and showed a combined sensitivity of 66% and specificity of 96%. For collapsing weakness, four studies (292 participants) gave a sensitivity of 47% and a specificity of 95%. The results of seven other tests are presented in the form of a Forest plot, and 27 tests are presented individually in a table.\nDiscussion & conclusion: The Hoover sign and Collapsing Weakness have diagnostic performances characterised by low sensitivity and very good specificity. However, methodological heterogeneity and the limited number of studies highlight the need for more rigorous research. Standardised protocols would facilitate the interpretation of these tests and their integration into reliable diagnostic algorithms.\nKey words: Functional neurological disorder; organic lesion; diagnostic test; diagnostic accuracy; sensitivity; specificity; likelihood ratio; systematic review; meta-analysis; Hoover sign; collapsing weakness.\n\n\n\n\n\n\nFigure 1: Poster presented at HES-SO Valais in September 2025",
     "crumbs": [
       "Functional motor disorders",
-      "Assessment of Functional Motor Disorders"
+      "Assessment of Functional Neurological Disorders"
     ]
   },
   {
     "objectID": "FMD/FMD_treatment.html",
     "href": "FMD/FMD_treatment.html",
-    "title": "Treatment of Functional Motor disorders",
+    "title": "Treatment of Functional Neurological Disorders",
     "section": "",
-    "text": "Currently, our research group performs a systematic review of rehabilitation interventions for people with functional motor disorders (FMD).\nIn the meantime, here are core recommendations for physiotherapy treatment in people with FMD. In 2015 an expert group published the following physiotherapy treatment recommendations for people with FMD (Nielsen et al. 2015)\nHere are some core recommendations:\n\n\n\n\n\n\n\n\nRelationship\nTreatment\nAssistive devices\n\n\n\n\nBuild trust\nLimit “hands on treatment”\nAvoid use of splints\n\n\nCreate expectation of improvement\nFoster independence\nAvoid immobilisation of joints\n\n\nInvolve family\nUse “goal directed” apporaches\nAvoid adaptive equipment\n\n\n\n\n\n\n\n Back to topReferences\n\nNielsen, Glenn, Jon Stone, Audrey Matthews, Melanie Brown, Chris Sparkes, Ross Farmer, Lindsay Masterton, Linsey Duncan, Alisa Winters, and Laura Daniell. 2015. “Physiotherapy for Functional Motor Disorders: A Consensus Recommendation.” Journal of Neurology, Neurosurgery & Psychiatry 86 (10): 11131119.",
+    "text": "Introduction\nFunctional neurological disorder (FND) is a pathology characterized by motor symptoms that impair daily functioning, even though the nervous system is intact. Multiple rehabilitative interventions targeting motor symptoms in FND have been proposed in recent years. However, there remains an unmet need for a comprehensive review of the proposed interventions to clarify the primary treatment options in the context of interdisciplinary rehabilitation.\nMethod\nA scoping review was conducted to address this need. Articles were selected based on predefined eligibility criteria, including a focus on patients with FND presenting motor symptoms, and the assessment of at least one motor outcome.\nResults\nAs part of this scoping review, 26 studies were included. The identified treatments included interdisciplinary interventions, physiotherapy, psychotherapy and transcranial magnetic stimulation. The most commonly involved professionals in rehabilitative interventions were physiotherapists, occupational therapists and psychotherapists. The most common physiotherapeutic treatments applied for FND rehabilitation comprised motor retraining, patient education and attentional focus redirection. Motor and non-motor symptoms were assessed using various tools such as scales and questionnaires.\nDiscussion\nThis review highlights the importance of interdisciplinary management, both physical and psychological approaches, to treat motor symptoms of FND. The heterogeneity observed in symptom assessment methods underlines the need for standardisation and provides a basis for future research. Given the complexity of FND, a key practical implication is to form interdisciplinary teams specialising in the management of rehabilitation in FND.\nKey words\nFunctional neurological disorder, functional movement disorder, motor symptoms, treatment, rehabilitation, interdisciplinary, physical therapy, assessment\n\n\n\nPoster presented at the HES-SO Valais-Wallis in September 2025",
     "crumbs": [
       "Functional motor disorders",
-      "Treatment of Functional Motor disorders"
+      "Treatment of Functional Neurological Disorders"
     ]
   },
   {
@@ -94,7 +94,7 @@
     "href": "FMD/FMD_general.html",
     "title": "Functional Motor disorders",
     "section": "",
-    "text": "This is the Wikipedia definition of functional neurologic disorders\nLink Wikipedia\nFunctional neurologic disorder or functional neurological disorder (FND) is a condition in which patients experience neurological symptoms such as weakness, movement disorders, sensory symptoms, and blackouts. As a functional disorder, there is by definition no known disease process affecting the structure of the body, yet the person experiences symptoms relating to their body function. Symptoms of functional neurological disorders are clinically recognisable, but are not categorically associated with a definable organic disease.\n\n\n\n Back to top",
+    "text": "Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition (American Psychiatric Association 2013). FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs (Bermingham et al. 2010).\nIn order to help clinicians and people with FND with treatement and assessment decisions two literature reviews were conducted.\n\nThe first study was a systematic review focused on evaluating the diagnostic accuracy of clinical tests proposed for identifying functional neurological disorder. In recent years, the diagnostic approach to FND has shifted towards identifying ‘positive’ clinical signs — that is, signs that actively support the diagnosis — rather than relying solely on excluding other conditions. However, with an increasing number of clinical tests being introduced, clinicians now face the challenge of selecting the most appropriate ones. This selection must be guided by clinimetric data such as sensitivity, specificity and overall diagnostic performance.\n\n\n\nThe second study was a scoping review aimed at exploring the range of proposed interventions for Functional Neurological Disorder. In recent years, several rehabilitative approaches have been suggested, particularly those targeting motor symptoms. However, despite this growing body of work, there is still a lack of a comprehensive review that consolidates these interventions. Such a review is essential to better define the primary treatment options within the framework of interdisciplinary rehabilitation.\n\n\n\n\n\n Back to topReferences\n\nAmerican Psychiatric Association. 2013. “Diagnostic and Statistical Manual of Mental Disorders (Fifth Edit). American Psychiatric Association.” Washington, DC.\n\n\nBermingham, Sarah L., Alan Cohen, John Hague, and Michael Parsonage. 2010. “The Cost of Somatisation Among the Working-Age Population in England for the Year 20082009.” Mental Health in Family Medicine 7 (2): 71. https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/.",
     "crumbs": [
       "Functional motor disorders",
       "Functional Motor disorders"
@@ -321,7 +321,7 @@
     "href": "team.html#student-projects",
     "title": "Team",
     "section": "Student projects",
-    "text": "Student projects\nYasmina Häberli & Mattia Innocenti\n\nBachelor thesis\nongoing thesis at HES-SO Valais-Wallis\n\nMarie Bonjour, MSc\n\nMaster thesis\ngraduated 2024 at Berner Fachhochschule\n\nGaël Christen, BSc & Maël Krieg, BSc\n\nBachelor thesis\ngraduated 2024 at HES-SO Valais-Wallis\n\nSiri Nyfeller, BSc & Emmanuel Favre Bulle, BSc\n\nBachelor thesis\ngraduated 2023 at HES-SO Valais-Wallis\n\nMarie Balet, BSc & Coralie Chaperon, BSc\n\nBachelor thesis\ngraduated 2023 at HES-SO Valais-Wallis",
+    "text": "Student projects\nYasmina Häberli & Mattia Innocenti\n\nBachelor thesis\ngraduated 2025 at HES-SO Valais-Wallis\n\nAstrid Jule & Marlena Gerber\n\nBachelor thesis\ngraduated 2025 at HES-SO Valais-Wallis\n\nVaucher Eliot & Willemin Noé\n\nBachelor thesis\ngraduated 2025 at HES-SO Valais-Wallis\n\nCamille Jung & Diane Meyer\n\nBachelor thesis\ngraduated 2025 at HES-SO Valais-Wallis\n\nMarie Bonjour, MSc\n\nMaster thesis\ngraduated 2024 at Berner Fachhochschule\n\nGaël Christen, BSc & Maël Krieg, BSc\n\nBachelor thesis\ngraduated 2024 at HES-SO Valais-Wallis\n\nSiri Nyfeller, BSc & Emmanuel Favre Bulle, BSc\n\nBachelor thesis\ngraduated 2023 at HES-SO Valais-Wallis\n\nMarie Balet, BSc & Coralie Chaperon, BSc\n\nBachelor thesis\ngraduated 2023 at HES-SO Valais-Wallis",
     "crumbs": [
       "The project",
       "Team"
@@ -341,12 +341,78 @@
   {
     "objectID": "FMD/FMD_assessment.html#evaluation-of-the-diagnostic-accuracy-of-clinical-tests-for-the-identification-of-functional-neurological-disorders-a-systematic-review-with-meta-analysis",
     "href": "FMD/FMD_assessment.html#evaluation-of-the-diagnostic-accuracy-of-clinical-tests-for-the-identification-of-functional-neurological-disorders-a-systematic-review-with-meta-analysis",
-    "title": "Assessment of Functional Motor Disorders",
+    "title": "Assessment of Functional Neurological Disorders",
     "section": "",
     "text": "Introduction: Functional neurological disorders (FND) manifest as real motor, sensory and cognitive symptoms without any identifiable neurological lesion. Their diagnosis is now based on positive clinical signs. Complex and multifactorial, they result from biological, psychological and social factors. Our study assesses the diagnostic accuracy of tests for identifying NFTs. Clinical tests, known as index tests, make it possible to differentiate NFTs from organic pathologies, facilitating early diagnosis and appropriate management, particularly in physiotherapy.\nMethod: This systematic review with meta-analysis, in accordance with the Cochrane Handbook guidelines, assesses the validity of clinical diagnostic tests for functional neurological disorders. The search strategy was applied to four databases.\nResults: Fourteen studies (951 participants) were included. The meta-analysis of the Hoover signal was based on six studies (412 participants) and showed a combined sensitivity of 66% and specificity of 96%. For collapsing weakness, four studies (292 participants) gave a sensitivity of 47% and a specificity of 95%. The results of seven other tests are presented in the form of a Forest plot, and 27 tests are presented individually in a table.\nDiscussion & conclusion: The Hoover sign and Collapsing Weakness have diagnostic performances characterised by low sensitivity and very good specificity. However, methodological heterogeneity and the limited number of studies highlight the need for more rigorous research. Standardised protocols would facilitate the interpretation of these tests and their integration into reliable diagnostic algorithms.\nKey words: Functional neurological disorder; organic lesion; diagnostic test; diagnostic accuracy; sensitivity; specificity; likelihood ratio; systematic review; meta-analysis; Hoover sign; collapsing weakness.\n\n\n\n\n\n\nFigure 1: Poster presented at HES-SO Valais in September 2025",
     "crumbs": [
       "Functional motor disorders",
-      "Assessment of Functional Motor Disorders"
+      "Assessment of Functional Neurological Disorders"
+    ]
+  },
+  {
+    "objectID": "index.html#the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data",
+    "href": "index.html#the-impact-of-attentional-focus-in-body-perception-of-patients-with-functional-motor-disorders-fmd-preliminary-data",
+    "title": "Project Attento",
+    "section": "",
+    "text": "This is the official website of Project ATTENTO, a research initiative focused on investigating how different types of attentional focus can be applied to improve motor function in individuals with functional motor disorders (FMD).\nBackground and aims\nIndividuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition (American Psychiatric Association 2013). FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs (Bermingham et al. 2010; Stephen et al. 2021). Nevertheless, an accurate diagnosis is often delayed because it implies the exclusion of other organic pathologies (e.g., stroke). This is a crucial issue since the delay from symptoms’ onset to the diagnosis has been recognized as the most significant negative prognostic factor (Gelauff et al. 2014; Gelauff and Stone 2016). Therefore, there is a pressing need to identify objective and disease-specific markers to support clinicians in their diagnostic routines. \nIn this context, hierarchical Bayesian approach has been proposed as a promising framework to explain sensorimotor symptoms in FND in terms of deficit in the inference process, and specifically in the imbalance between prior knowledge, i.e. top-down information, related to an aberrant focus of attention directed over the body, and bottom-up information, such as sensory perception and multisensory integration (Edwards et al. 2012). Specifically, it has been suggested that sensory perception and multisensory integration occurs properly when the patient’s attention is focused externally (in the environment, or outside the own body), as opposed to when it is directed towards their own body (internally). This aligns with recent expert recommendations for physiotherapy in FND, which emphasize “goal-directed automatic movements” to shift the patient’s attention outward and reduce excessive internal focus of attention (Nielsen et al. 2015).\nDespite this theoretical framework, the idea of “an abnormal sensorimotor processing of information during internal focus of attention” in FND’s has not been thoroughly validated, as no studies have quantitatively assessed this hypothesis. To address this gap, the ATTENTO project aims to: \n\nevaluate the processing of sensorimotor signals and multisensory integration (bottom-up) in FND patients, \n\n\n\nexamine how this process is influenced by internal and external focus of attention (prior \n\nknowledge) \nTo achieve these objectives, an ad hoc multisensory, visuo-proprioceptive perceptual task based on passive movements has been developed.",
+    "crumbs": [
+      "The project",
+      "Project Attento"
+    ]
+  },
+  {
+    "objectID": "index.html#preliminary-results-of-the-attento-project-have-been-presented-at-the-brnet-2025-in-utrecht.",
+    "href": "index.html#preliminary-results-of-the-attento-project-have-been-presented-at-the-brnet-2025-in-utrecht.",
+    "title": "Project Attento",
+    "section": "Preliminary results of the Attento project have been presented at the BRNet 2025 in Utrecht.",
+    "text": "Preliminary results of the Attento project have been presented at the BRNet 2025 in Utrecht.\n\n\n\nBRNet 2025 Poster",
+    "crumbs": [
+      "The project",
+      "Project Attento"
+    ]
+  },
+  {
+    "objectID": "index.html#preliminary-results",
+    "href": "index.html#preliminary-results",
+    "title": "Project Attento",
+    "section": "Preliminary results",
+    "text": "Preliminary results\nThese results of the Attento project have been presented at the BRNet 2025 conference in Utrecht.\n\n\n\nBRNet 2025 Poster",
+    "crumbs": [
+      "The project",
+      "Project Attento"
+    ]
+  },
+  {
+    "objectID": "FMD/FMD_treatment.html#treatments-for-patients-with-functional-neurological-disorders-with-motor-symptoms-a-scoping-review.",
+    "href": "FMD/FMD_treatment.html#treatments-for-patients-with-functional-neurological-disorders-with-motor-symptoms-a-scoping-review.",
+    "title": "Treatment of Functional Neurological Disorders",
+    "section": "",
+    "text": "Introduction\nFunctional neurological disorder (FND) is a pathology characterized by motor symptoms that impair daily functioning, even though the nervous system is intact. Multiple rehabilitative interventions targeting motor symptoms in FND have been proposed in recent years. However, there remains an unmet need for a comprehensive review of the proposed interventions to clarify the primary treatment options in the context of interdisciplinary rehabilitation.\nMethod\nA scoping review was conducted to address this need. Articles were selected based on predefined eligibility criteria, including a focus on patients with FND presenting motor symptoms, and the assessment of at least one motor outcome.\nResults\nAs part of this scoping review, 26 studies were included. The identified treatments included interdisciplinary interventions, physiotherapy, psychotherapy and transcranial magnetic stimulation. The most commonly involved professionals in rehabilitative interventions were physiotherapists, occupational therapists and psychotherapists. The most common physiotherapeutic treatments applied for FND rehabilitation comprised motor retraining, patient education and attentional focus redirection. Motor and non-motor symptoms were assessed using various tools such as scales and questionnaires.\nDiscussion\nThis review highlights the importance of interdisciplinary management, both physical and psychological approaches, to treat motor symptoms of FND. The heterogeneity observed in symptom assessment methods underlines the need for standardisation and provides a basis for future research. Given the complexity of FND, a key practical implication is to form interdisciplinary teams specialising in the management of rehabilitation in FND.\nKey words\nFunctional neurological disorder, functional movement disorder, motor symptoms, treatment, rehabilitation, interdisciplinary, physical therapy, assessment\n\n\n\nPoster presented at the HES-SO Valais-Wallis in September 2025",
+    "crumbs": [
+      "Functional motor disorders",
+      "Treatment of Functional Neurological Disorders"
+    ]
+  },
+  {
+    "objectID": "FOCUS/Attention_msk.html",
+    "href": "FOCUS/Attention_msk.html",
+    "title": "Focus of attention in knee musculoskeletal problems",
+    "section": "",
+    "text": "Introduction:\nThis report presents a systematic review examining the role of attentional focus in the rehabilitation of knee pathologies. Specifically, it explores how different types of attentional focus—such as internal versus external—affect functional outcomes and performance-related improvements in motor skills, including balance, jump mechanics, and gait kinematics.\nMethod:\nThe review followed the Cochrane Handbook and PRISMA guidelines. The included studies were assessed for methodological quality using the PEDro scale and analyzed statistically using a random-effects model.\nResults:\nSeven studies were included and analyzed in three subgroup meta-analyses (A–C): six studies following anterior cruciate ligament (ACL) reconstruction and one study involving patellofemoral pain. The findings regarding improved motor performance were as follows: A) No effect of external attentional focus (EAF) compared to a control group without attentional focus as a single intervention (SMD 0.08, 95% CI -0.39 to 0.54), B) No effect of EAF compared to internal attentional focus (IAF) as a single intervention (SMD -0.10, 95% CI -0.82 to 0.63), C) A large effect of EAF compared to a control group without attentional focus in a multi-week intervention (SMD -1.61, 95% CI -2.26 to -0.96). The level of evidence was very low for comparisons A and B, and high for comparison C.\nDiscussion:\nThe results from comparison C support the hypotheses of previous systematic reviews. However, the review is limited by the small number of different knee pathologies, small sample sizes in the included studies, and the variability in how interventions were implemented.\nConclusion:\nDespite these limitations, this current review on attentional focus in the rehabilitation of musculoskeletal knee pathologies suggests that a long-term program using EAF provides strong evidence for improving knee kinematics and balance compared to a control group. However, there is no clear evidence supporting the effectiveness of single-session interventions.\n\n\n\nPoster presented at the HES-SO Valais in September 2025",
+    "crumbs": [
+      "Focus of attention",
+      "Focus of attention in knee musculoskeletal problems"
+    ]
+  },
+  {
+    "objectID": "FOCUS/Attention_msk.html#comparison-of-the-effectiveness-of-different-attentional-focus-strategies-and-their-impact-on-performance-improvement-during-the-rehabilitation-of-knee-pathologies-a-systematic-review-with-meta-analysis",
+    "href": "FOCUS/Attention_msk.html#comparison-of-the-effectiveness-of-different-attentional-focus-strategies-and-their-impact-on-performance-improvement-during-the-rehabilitation-of-knee-pathologies-a-systematic-review-with-meta-analysis",
+    "title": "Focus of attention in knee musculoskeletal problems",
+    "section": "",
+    "text": "Introduction:\nThis report presents a systematic review examining the role of attentional focus in the rehabilitation of knee pathologies. Specifically, it explores how different types of attentional focus—such as internal versus external—affect functional outcomes and performance-related improvements in motor skills, including balance, jump mechanics, and gait kinematics.\nMethod:\nThe review followed the Cochrane Handbook and PRISMA guidelines. The included studies were assessed for methodological quality using the PEDro scale and analyzed statistically using a random-effects model.\nResults:\nSeven studies were included and analyzed in three subgroup meta-analyses (A–C): six studies following anterior cruciate ligament (ACL) reconstruction and one study involving patellofemoral pain. The findings regarding improved motor performance were as follows: A) No effect of external attentional focus (EAF) compared to a control group without attentional focus as a single intervention (SMD 0.08, 95% CI -0.39 to 0.54), B) No effect of EAF compared to internal attentional focus (IAF) as a single intervention (SMD -0.10, 95% CI -0.82 to 0.63), C) A large effect of EAF compared to a control group without attentional focus in a multi-week intervention (SMD -1.61, 95% CI -2.26 to -0.96). The level of evidence was very low for comparisons A and B, and high for comparison C.\nDiscussion:\nThe results from comparison C support the hypotheses of previous systematic reviews. However, the review is limited by the small number of different knee pathologies, small sample sizes in the included studies, and the variability in how interventions were implemented.\nConclusion:\nDespite these limitations, this current review on attentional focus in the rehabilitation of musculoskeletal knee pathologies suggests that a long-term program using EAF provides strong evidence for improving knee kinematics and balance compared to a control group. However, there is no clear evidence supporting the effectiveness of single-session interventions.\n\n\n\nPoster presented at the HES-SO Valais in September 2025",
+    "crumbs": [
+      "Focus of attention",
+      "Focus of attention in knee musculoskeletal problems"
     ]
   }
 ]

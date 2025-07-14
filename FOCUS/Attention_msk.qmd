@@ -1,0 +1,28 @@
+---
+title: "Focus of attention in knee musculoskeletal problems"
+bibliography: references.bib
+---
+
+## Comparison of the Effectiveness of Different Attentional Focus Strategies and Their Impact on Performance Improvement During the Rehabilitation of Knee Pathologies: A Systematic Review with Meta-Analysis
+
+**Introduction:**
+
+This report presents a systematic review examining the role of attentional focus in the rehabilitation of knee pathologies. Specifically, it explores how different types of attentional focus—such as internal versus external—affect functional outcomes and performance-related improvements in motor skills, including balance, jump mechanics, and gait kinematics.
+
+**Method:**
+
+The review followed the Cochrane Handbook and PRISMA guidelines. The included studies were assessed for methodological quality using the PEDro scale and analyzed statistically using a random-effects model.
+
+**Results:**
+
+Seven studies were included and analyzed in three subgroup meta-analyses (A–C): six studies following anterior cruciate ligament (ACL) reconstruction and one study involving patellofemoral pain. The findings regarding improved motor performance were as follows: A) No effect of external attentional focus (EAF) compared to a control group without attentional focus as a single intervention (SMD 0.08, 95% CI -0.39 to 0.54), B) No effect of EAF compared to internal attentional focus (IAF) as a single intervention (SMD -0.10, 95% CI -0.82 to 0.63), C) A large effect of EAF compared to a control group without attentional focus in a multi-week intervention (SMD -1.61, 95% CI -2.26 to -0.96). The level of evidence was very low for comparisons A and B, and high for comparison C.
+
+**Discussion:**
+
+The results from comparison C support the hypotheses of previous systematic reviews. However, the review is limited by the small number of different knee pathologies, small sample sizes in the included studies, and the variability in how interventions were implemented.
+
+**Conclusion:**
+
+Despite these limitations, this current review on attentional focus in the rehabilitation of musculoskeletal knee pathologies suggests that a long-term program using EAF provides strong evidence for improving knee kinematics and balance compared to a control group. However, there is no clear evidence supporting the effectiveness of single-session interventions.
+
+![Poster presented at the HES-SO Valais in September 2025](https://res.cloudinary.com/dughixjyd/image/upload/v1752486239/Attento/Poster_FoA_Knee.jpg)
