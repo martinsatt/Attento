@@ -420,62 +420,98 @@
     "href": "privacy_policy.html",
     "title": "Privacy Policy",
     "section": "",
-    "text": "Last updated: 2025-07-01"
+    "text": "Last updated: 2025-07-01",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#introduction",
     "href": "privacy_policy.html#introduction",
     "title": "Privacy Policy",
     "section": "1. Introduction",
-    "text": "1. Introduction\nThis website is operated as part of the research project “Attento”. We are committed to protecting your personal data in accordance with the Swiss Federal Act on Data Protection (FADP) and, where applicable, the EU General Data Protection Regulation (GDPR)."
+    "text": "1. Introduction\nThis website is operated as part of the research project “Attento”. We are committed to protecting your personal data in accordance with the Swiss Federal Act on Data Protection (FADP) and, where applicable, the EU General Data Protection Regulation (GDPR).",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#contact-information",
     "href": "privacy_policy.html#contact-information",
     "title": "Privacy Policy",
     "section": "2. Contact Information",
-    "text": "2. Contact Information\nData Controller:\nDr. K. Martin Sattelmayer\nHES-SO Valais-Wallis\nThermenstrasse 41\n3954 Leukerbad, Switzerland\nEmail: martin.sattelmayer(at)hevs.ch\nTel: +41 (0)58 606 97 00"
+    "text": "2. Contact Information\nData Controller:\nDr. K. Martin Sattelmayer\nHES-SO Valais-Wallis\nThermenstrasse 41\n3954 Leukerbad, Switzerland\nEmail: martin.sattelmayer(at)hevs.ch\nTel: +41 (0)58 606 97 00",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#purpose-of-data-processing",
     "href": "privacy_policy.html#purpose-of-data-processing",
     "title": "Privacy Policy",
     "section": "3. Purpose of Data Processing",
-    "text": "3. Purpose of Data Processing\nWe do not actively collect personal data through this website. However, some data may be collected automatically by our hosting provider, Netlify, for operational and security purposes (e.g., IP address, browser type, access times)."
+    "text": "3. Purpose of Data Processing\nWe do not actively collect personal data through this website. However, some data may be collected automatically by our hosting provider, Netlify, for operational and security purposes (e.g., IP address, browser type, access times).",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#hosting-and-third-party-services",
     "href": "privacy_policy.html#hosting-and-third-party-services",
     "title": "Privacy Policy",
     "section": "4. Hosting and Third-Party Services",
-    "text": "4. Hosting and Third-Party Services\nThis website is hosted by Netlify. Netlify may collect certain technical data as part of its standard operations. For more information, please refer to Netlify’s Privacy Policy.\nWe do not use cookies, analytics tools, or third-party trackers on this site."
+    "text": "4. Hosting and Third-Party Services\nThis website is hosted by Netlify. Netlify may collect certain technical data as part of its standard operations. For more information, please refer to Netlify’s Privacy Policy.\nWe do not use cookies, analytics tools, or third-party trackers on this site.",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#data-transfers",
     "href": "privacy_policy.html#data-transfers",
     "title": "Privacy Policy",
     "section": "5. Data Transfers",
-    "text": "5. Data Transfers\nData processed by Netlify may be transferred to servers located outside Switzerland or the EU. Netlify implements appropriate safeguards to ensure data protection in accordance with applicable laws."
+    "text": "5. Data Transfers\nData processed by Netlify may be transferred to servers located outside Switzerland or the EU. Netlify implements appropriate safeguards to ensure data protection in accordance with applicable laws.",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#your-rights",
     "href": "privacy_policy.html#your-rights",
     "title": "Privacy Policy",
     "section": "6. Your Rights",
-    "text": "6. Your Rights\nUnder the Swiss FADP, you have the right to: - Request access to your personal data - Request correction or deletion of your data - Object to or restrict certain types of processing\nTo exercise these rights, please contact us using the details above."
+    "text": "6. Your Rights\nUnder the Swiss FADP, you have the right to: - Request access to your personal data - Request correction or deletion of your data - Object to or restrict certain types of processing\nTo exercise these rights, please contact us using the details above.",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#data-security",
     "href": "privacy_policy.html#data-security",
     "title": "Privacy Policy",
     "section": "7. Data Security",
-    "text": "7. Data Security\nWe take appropriate technical and organizational measures to protect your data against unauthorized access, loss, or misuse."
+    "text": "7. Data Security\nWe take appropriate technical and organizational measures to protect your data against unauthorized access, loss, or misuse.",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   },
   {
     "objectID": "privacy_policy.html#changes-to-this-policy",
     "href": "privacy_policy.html#changes-to-this-policy",
     "title": "Privacy Policy",
     "section": "8. Changes to This Policy",
-    "text": "8. Changes to This Policy\nWe may update this privacy policy from time to time. The latest version will always be available on this page."
+    "text": "8. Changes to This Policy\nWe may update this privacy policy from time to time. The latest version will always be available on this page.",
+    "crumbs": [
+      "Privacy policy",
+      "Privacy Policy"
+    ]
   }
 ]

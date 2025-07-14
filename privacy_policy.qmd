@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy"
-format: html
 ---
 
 **Last updated: 2025-07-01**
