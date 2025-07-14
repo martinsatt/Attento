@@ -94,7 +94,7 @@
     "href": "FMD/FMD_general.html",
     "title": "Functional Motor disorders",
     "section": "",
-    "text": "Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition (American Psychiatric Association 2013). FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs (Bermingham et al. 2010).\nIn order to help clinicians and people with FND with treatement and assessment decisions two literature reviews were conducted.\n\nThe first study was a systematic review focused on evaluating the diagnostic accuracy of clinical tests proposed for identifying functional neurological disorder. In recent years, the diagnostic approach to FND has shifted towards identifying ‘positive’ clinical signs — that is, signs that actively support the diagnosis — rather than relying solely on excluding other conditions. However, with an increasing number of clinical tests being introduced, clinicians now face the challenge of selecting the most appropriate ones. This selection must be guided by clinimetric data such as sensitivity, specificity and overall diagnostic performance.\n\n\n\nThe second study was a scoping review aimed at exploring the range of proposed interventions for Functional Neurological Disorder. In recent years, several rehabilitative approaches have been suggested, particularly those targeting motor symptoms. However, despite this growing body of work, there is still a lack of a comprehensive review that consolidates these interventions. Such a review is essential to better define the primary treatment options within the framework of interdisciplinary rehabilitation.\n\n\n\n\n\n Back to topReferences\n\nAmerican Psychiatric Association. 2013. “Diagnostic and Statistical Manual of Mental Disorders (Fifth Edit). American Psychiatric Association.” Washington, DC.\n\n\nBermingham, Sarah L., Alan Cohen, John Hague, and Michael Parsonage. 2010. “The Cost of Somatisation Among the Working-Age Population in England for the Year 20082009.” Mental Health in Family Medicine 7 (2): 71. https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/.",
+    "text": "Individuals with sensorimotor deficits due to Functional Neurological Disorders (FND), experience real symptoms of sensorimotor deficits (e.g., paralysis, abnormal movements, reduced sensibility) in absence of any typical neurological disease explaining their condition (American Psychiatric Association 2013). FND is one of the most frequent causes of neurological outpatient visits and has important socioeconomic costs (Bermingham et al. 2010).\nIn order to help clinicians and people with FND with treatment and assessment decisions two literature reviews were conducted.\n\nThe first study was a systematic review focused on evaluating the diagnostic accuracy of clinical tests proposed for identifying functional neurological disorder. In recent years, the diagnostic approach to FND has shifted towards identifying ‘positive’ clinical signs — that is, signs that actively support the diagnosis — rather than relying solely on excluding other conditions. However, with an increasing number of clinical tests being introduced, clinicians now face the challenge of selecting the most appropriate ones. This selection must be guided by clinimetric data such as sensitivity, specificity and overall diagnostic performance.\n\n\n\nThe second study was a scoping review aimed at exploring the range of proposed interventions for Functional Neurological Disorder. In recent years, several rehabilitative approaches have been suggested, particularly those targeting motor symptoms. However, despite this growing body of work, there is still a lack of a comprehensive review that consolidates these interventions. Such a review is essential to better define the primary treatment options within the framework of interdisciplinary rehabilitation.\n\n\n\n\n\n Back to topReferences\n\nAmerican Psychiatric Association. 2013. “Diagnostic and Statistical Manual of Mental Disorders (Fifth Edit). American Psychiatric Association.” Washington, DC.\n\n\nBermingham, Sarah L., Alan Cohen, John Hague, and Michael Parsonage. 2010. “The Cost of Somatisation Among the Working-Age Population in England for the Year 20082009.” Mental Health in Family Medicine 7 (2): 71. https://pmc.ncbi.nlm.nih.gov/articles/PMC2939455/.",
     "crumbs": [
       "Functional motor disorders",
       "Functional Motor disorders"
@@ -414,5 +414,68 @@
       "Focus of attention",
       "Focus of attention in musculoskeletal problems of the knee"
     ]
+  },
+  {
+    "objectID": "privacy_policy.html",
+    "href": "privacy_policy.html",
+    "title": "Privacy Policy",
+    "section": "",
+    "text": "Last updated: 2025-07-01"
+  },
+  {
+    "objectID": "privacy_policy.html#introduction",
+    "href": "privacy_policy.html#introduction",
+    "title": "Privacy Policy",
+    "section": "1. Introduction",
+    "text": "1. Introduction\nThis website is operated as part of the research project “Attento”. We are committed to protecting your personal data in accordance with the Swiss Federal Act on Data Protection (FADP) and, where applicable, the EU General Data Protection Regulation (GDPR)."
+  },
+  {
+    "objectID": "privacy_policy.html#contact-information",
+    "href": "privacy_policy.html#contact-information",
+    "title": "Privacy Policy",
+    "section": "2. Contact Information",
+    "text": "2. Contact Information\nData Controller:\nDr. K. Martin Sattelmayer\nHES-SO Valais-Wallis\nThermenstrasse 41\n3954 Leukerbad, Switzerland\nEmail: martin.sattelmayer(at)hevs.ch\nTel: +41 (0)58 606 97 00"
+  },
+  {
+    "objectID": "privacy_policy.html#purpose-of-data-processing",
+    "href": "privacy_policy.html#purpose-of-data-processing",
+    "title": "Privacy Policy",
+    "section": "3. Purpose of Data Processing",
+    "text": "3. Purpose of Data Processing\nWe do not actively collect personal data through this website. However, some data may be collected automatically by our hosting provider, Netlify, for operational and security purposes (e.g., IP address, browser type, access times)."
+  },
+  {
+    "objectID": "privacy_policy.html#hosting-and-third-party-services",
+    "href": "privacy_policy.html#hosting-and-third-party-services",
+    "title": "Privacy Policy",
+    "section": "4. Hosting and Third-Party Services",
+    "text": "4. Hosting and Third-Party Services\nThis website is hosted by Netlify. Netlify may collect certain technical data as part of its standard operations. For more information, please refer to Netlify’s Privacy Policy.\nWe do not use cookies, analytics tools, or third-party trackers on this site."
+  },
+  {
+    "objectID": "privacy_policy.html#data-transfers",
+    "href": "privacy_policy.html#data-transfers",
+    "title": "Privacy Policy",
+    "section": "5. Data Transfers",
+    "text": "5. Data Transfers\nData processed by Netlify may be transferred to servers located outside Switzerland or the EU. Netlify implements appropriate safeguards to ensure data protection in accordance with applicable laws."
+  },
+  {
+    "objectID": "privacy_policy.html#your-rights",
+    "href": "privacy_policy.html#your-rights",
+    "title": "Privacy Policy",
+    "section": "6. Your Rights",
+    "text": "6. Your Rights\nUnder the Swiss FADP, you have the right to: - Request access to your personal data - Request correction or deletion of your data - Object to or restrict certain types of processing\nTo exercise these rights, please contact us using the details above."
+  },
+  {
+    "objectID": "privacy_policy.html#data-security",
+    "href": "privacy_policy.html#data-security",
+    "title": "Privacy Policy",
+    "section": "7. Data Security",
+    "text": "7. Data Security\nWe take appropriate technical and organizational measures to protect your data against unauthorized access, loss, or misuse."
+  },
+  {
+    "objectID": "privacy_policy.html#changes-to-this-policy",
+    "href": "privacy_policy.html#changes-to-this-policy",
+    "title": "Privacy Policy",
+    "section": "8. Changes to This Policy",
+    "text": "8. Changes to This Policy\nWe may update this privacy policy from time to time. The latest version will always be available on this page."
   }
 ]

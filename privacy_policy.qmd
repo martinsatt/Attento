@@ -1,0 +1,48 @@
+---
+title: "Privacy Policy"
+format: html
+---
+
+**Last updated: 2025-07-01**
+
+## 1. Introduction
+
+This website is operated as part of the research project **"Attento"**. We are committed to protecting your personal data in accordance with the **Swiss Federal Act on Data Protection (FADP)** and, where applicable, the **EU General Data Protection Regulation (GDPR)**.
+
+## 2. Contact Information
+
+**Data Controller:**\
+Dr. K. Martin Sattelmayer\
+HES-SO Valais-Wallis\
+Thermenstrasse 41\
+3954 Leukerbad, Switzerland\
+Email: martin.sattelmayer(at)hevs.ch\
+Tel: +41 (0)58 606 97 00
+
+## 3. Purpose of Data Processing
+
+We do **not actively collect personal data** through this website. However, some data may be collected automatically by our hosting provider, **Netlify**, for operational and security purposes (e.g., IP address, browser type, access times).
+
+## 4. Hosting and Third-Party Services
+
+This website is hosted by **Netlify**. Netlify may collect certain technical data as part of its standard operations. For more information, please refer to [Netlify’s Privacy Policy](https://www.netlify.com/privacy/).
+
+We do not use cookies, analytics tools, or third-party trackers on this site.
+
+## 5. Data Transfers
+
+Data processed by Netlify may be transferred to servers located outside Switzerland or the EU. Netlify implements appropriate safeguards to ensure data protection in accordance with applicable laws.
+
+## 6. Your Rights
+
+Under the Swiss FADP, you have the right to: - Request access to your personal data - Request correction or deletion of your data - Object to or restrict certain types of processing
+
+To exercise these rights, please contact us using the details above.
+
+## 7. Data Security
+
+We take appropriate technical and organizational measures to protect your data against unauthorized access, loss, or misuse.
+
+## 8. Changes to This Policy
+
+We may update this privacy policy from time to time. The latest version will always be available on this page.

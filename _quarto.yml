@@ -26,9 +26,9 @@ website:
           - FOCUS/Attention_PD.qmd
           - FOCUS/Attention_stroke.qmd
           - FOCUS/Attention_msk.qmd
+      - section: "Privacy policy"
+        contents: privacy_policy.qmd
       
-     
-  
   page-footer: "Copyright 2025, Team Attento"
   cookie-consent: true
 
